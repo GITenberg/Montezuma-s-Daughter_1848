@@ -1,5 +1,8 @@
 _repo: Montezuma-s-Daughter_1848
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -29,6 +32,8 @@ description: "Montezuma's Daughter, first published in 1893, is a novel written 
   \ adventure novels, this one sometimes treats the natives as naïve and barbaric,\
   \ a flaw Haggard explicitly points out in his main character.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1848#Montezuma-s-Daughter
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-05-14'
 gutenberg_type: Text
